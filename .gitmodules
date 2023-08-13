@@ -1,0 +1,9 @@
+[submodule "terraform-aws-tfstate-backend"]
+	path = terraform-aws-tfstate-backend
+	url = https://github.com/Hevsy/terraform-aws-tfstate-backend
+[submodule "terraform-aws-dynamodb-table"]
+	path = terraform-aws-dynamodb-table
+	url = https://github.com/Hevsy/terraform-aws-dynamodb-table
+[submodule "terraform-aws-vpc"]
+	path = terraform-aws-vpc
+	url = https://github.com/Hevsy/terraform-aws-vpc
